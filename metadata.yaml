@@ -1,0 +1,34 @@
+_repo: Contos-d-Aldeia_21581
+_version: 0.1.0
+alternative_title: Contos da Aldeia
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braga, Alberto Leal Barradas Monteiro
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '24794'
+    url: http://www.gutenberg.org/2009/agents/24794
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Braga
+description: ''
+edition_note: 2ª edição
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2007-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21581'
+language: pt
+language_note: This ebook uses a spelling from the beginning of the 20th century
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publication_note: "Porto:\r\nCompanhia Portugueza Editora\r\n1916"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+title: Contos d'Aldeia
+url: http://www.gutenberg.org/ebooks/21581
