@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24794
     wikipedia: http://pt.wikipedia.org/wiki/Alberto_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21581#Contos-d-Aldeia
 edition_note: 2ª edição
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2007-05-23'
